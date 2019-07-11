@@ -1,0 +1,5 @@
+rootProject.name = 'gradleTest02'
+include 'gradle02_web'
+include 'gradle02_service'
+include 'gradle02_dao'
+
